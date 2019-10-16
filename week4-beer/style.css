@@ -1,0 +1,42 @@
+body {
+    background-image: url("Beer.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+
+h1 {
+    color: white;
+    font-family: Impact;
+    font-size: 300%;
+    text-align: center;
+}
+
+p  {
+    color: black;
+    font-family: 'Trebuchet MS';
+    font-size: 160%;
+    text-align: center;
+}
+
+    /* unvisited link */
+    a:link {
+            color: blue;
+
+        }
+  
+  /* visited link */
+  a:visited {
+            color: red;
+        }
+  
+  /* mouse over link */
+  a:hover {
+            color: black;
+        }
+  
+  /* selected link */
+  a:active {
+            color: blue;
+        }
